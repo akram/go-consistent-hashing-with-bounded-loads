@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/lafikl/consistent"
+	"github.com/akram/go-consistent-hashing-with-bounded-loads"
 )
 
 func Example_consistent(t *testing.T) {

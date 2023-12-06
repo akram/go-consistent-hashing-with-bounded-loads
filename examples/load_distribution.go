@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/lafikl/consistent"
+	"github.com/akram/go-consistent-hashing-with-bounded-loads"
 )
 
 func main() {
